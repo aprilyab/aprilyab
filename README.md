@@ -5,15 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=aprilyab&label=Profile%20views&color=0e75b6&style=flat" alt="aprilyab" />
 </p>
 
-## 🔭 I’m currently working on
-- **Machine Learning Engineer Intern** at [Elevvo](https://elevvo.com), developing predictive models and advancing skills in deep learning and AI-driven solutions.
-
-## 🌱 I’m currently learning
-- Advanced machine learning, deep learning architectures, natural language processing, and scalable data engineering techniques.
-
 ## 🎓 Education
 - **BSc in Computer Science**  
   _Addis Ababa University, Addis Ababa, Ethiopia (2023 – 2027)_
+  
+## 🔭 I’m currently working on
+- **Machine Learning Engineer Intern** at [Elevvo](https://elevvo.com), developing predictive models and advancing skills in deep learning and AI-driven solutions.
 
 ## 💻 Projects
 - All of my projects are available at [GitHub](https://github.com/aprilyab)
