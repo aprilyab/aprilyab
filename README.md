@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henok Yoseph Wubie</h1>
-<h3 align="center">🚀 Junior Data Scientist | Aspiring AI & Machine Learning Engineer | Data Enthusiast</h3>
+<h3 align="center">🚀 Junior ML Engineer & Data Scientist | Aspiring AI & Machine Learning Engineer | Data Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aprilyab&label=Profile%20views&color=0e75b6&style=flat" alt="aprilyab" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aprilyab&label=Profile%20views&color=0e75b6&style=flat" alt="aprilyab" />
+</p>
 
 ## 🔭 I’m currently working on
 - **Machine Learning Engineer Intern** at [Elevvo](https://elevvo.com), developing predictive models and advancing skills in deep learning and AI-driven solutions.
@@ -47,3 +49,12 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
+
+<!-- GitHub Stats -->
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aprilyab&show_icons=true&locale=en&layout=compact" alt="aprilyab" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aprilyab&show_icons=true&locale=en" alt="aprilyab" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aprilyab&" alt="aprilyab" /></p>
