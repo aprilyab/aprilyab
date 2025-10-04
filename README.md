@@ -1,3 +1,19 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+23528
+Fork on GitHub
+8043
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Henok Yoseph Wubie</h1>
 <h3 align="center">### 🚀 Junior Data Scientist | Aspiring AI & Machine Learning Engineer | Data Enthusiast</h3>
 
@@ -5,7 +21,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aprilyab" alt="aprilyab" /></a> </p>
 
+- ## 🔭 I’m currently working on **- **Machine Learning Engineer Intern** at [Elevvo](https://elevvo.com), developing predictive models and advancing skills in deep learning and AI-driven solutions.**
+
 - ## 🌱 I’m currently learning **- Advanced machine learning, deep learning architectures, natural language processing, and scalable data engineering techniques.**
+
+- 👯 ## 🤝 I’m looking to collaborate on **data science, machine learning, and AI projects that solve real-world problems.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aprilyab](https://github.com/aprilyab)
 
@@ -14,8 +34,6 @@
 - 📫 How to reach me **henokapril@gmail.com**
 
 - 📄 Know about my experiences [https://app.flowcv.com/resume/content](https://app.flowcv.com/resume/content)
-
-- ⚡ Fun fact **Math enthusiast, AI explorer, and passionate about building data-driven solutions 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,3 +51,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aprilyab&show_icons=true&locale=en" alt="aprilyab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aprilyab&" alt="aprilyab" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
