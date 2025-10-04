@@ -21,11 +21,11 @@
 ## 💬 Ask me about
 - 🧠 Machine Learning & AI | 📊 Data Science & Engineering | 🐍 Python & SQL | 🌐 Web Development
 
-## 📫 How to reach me
+## 🔗 Connect With Me
 - Email: [henokapril@gmail.com](mailto:henokapril@gmail.com)  
 - LinkedIn: [Henok Yoseph](https://linkedin.com/in/henok-yoseph-0bb438305)  
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Tech Stack:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
