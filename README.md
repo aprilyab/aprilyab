@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Henok Yoseph Wubie</h1>
+<h1 align="center">Hi 👋, I'm Henok Yoseph</h1>
 <h3 align="center">🚀 Junior ML Engineer & Data Scientist | Aspiring AI & Machine Learning Engineer | Data Enthusiast</h3>
 
 <p align="left">
