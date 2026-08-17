@@ -10,7 +10,7 @@
   _Addis Ababa University, Addis Ababa, Ethiopia (2023 – 2027)_
   
 ## 🔭 I’m currently working on
-- **Machine Learning Engineer Intern** at [iCog Labs](https://icog-labs.com/)), developing predictive models and advancing skills in deep learning and AI-driven solutions.
+- **AI/ML Engineer** at [iCog Labs](https://icog-labs.com/)), developing predictive models and advancing skills in deep learning and AI-driven solutions.
 
 ## 💻 Projects
 - All of my projects are available at [GitHub](https://github.com/aprilyab)
