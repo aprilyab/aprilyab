@@ -1,10 +1,6 @@
 <div align="center">
 
-# Hi, I'm Henok Yoseph 👋
-
-### AI/ML Engineer · Software Developer
-
-I build machine learning systems, AI agents, and data-driven applications.
+<img src="./assets/profile-banner.svg" alt="Henok Yoseph — AI/ML Engineer" width="100%" />
 
 <p>
   <a href="https://github.com/aprilyab"><img src="https://img.shields.io/badge/GitHub-aprilyab-181717?style=flat-square&logo=github" alt="GitHub" /></a>
@@ -16,12 +12,11 @@ I build machine learning systems, AI agents, and data-driven applications.
 
 ## About
 
-- AI/ML Engineer at [iCog Labs](https://icog-labs.com/)
-- Computer Science student at [Addis Ababa University](https://www.aau.edu.et/)
-- Based in Addis Ababa, Ethiopia
-- Currently exploring AI agents, GraphRAG, neuro-symbolic AI, NLP, and pattern mining
+I’m an AI/ML Engineer at [iCog Labs](https://icog-labs.com/) and a Computer Science student at [Addis Ababa University](https://www.aau.edu.et/). I build machine learning systems, AI agents, and data-driven applications.
 
-## Featured repositories
+Currently exploring **AI agents, GraphRAG, neuro-symbolic AI, NLP, pattern mining, and model deployment**.
+
+## Selected work
 
 - [Neuro-Symbolic AI Guardrail System](https://github.com/aprilyab/Neuro-Symbolic-AI-Guardrail-System)
 - [GraphRAG Galaxy Agent](https://github.com/aprilyab/GraphRAG-Galaxy-agent-xp)
@@ -30,15 +25,15 @@ I build machine learning systems, AI agents, and data-driven applications.
 - [MeTTa WAM Jam](https://github.com/aprilyab/MettaWamJam) — MeTTa and Prolog HTTP system
 - [Credit Risk Model](https://github.com/aprilyab/credit-risk-model)
 
-## Tech stack
+## Tools I use
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,rust,php,js,tensorflow,pytorch,docker,linux,django,flask,mysql,postgres,git" alt="Python, C++, Java, Rust, PHP, JavaScript, TensorFlow, PyTorch, Docker, Linux, Django, Flask, MySQL, PostgreSQL, Git" />
 </p>
 
-Python · SQL · Scikit-learn · TensorFlow · PyTorch · OpenCV · Pandas · NumPy · NLP · Docker · Linux · Git · GitHub
+Python · SQL · Scikit-learn · OpenCV · Pandas · NumPy · NLP · GitHub
 
-## GitHub stats
+## GitHub activity
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aprilyab&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
