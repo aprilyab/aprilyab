@@ -4,6 +4,8 @@
 
 ### AI/ML Engineer building intelligent systems that connect learning, reasoning, and action.
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=130&section=header&text=Learning%20%7C%20Reasoning%20%7C%20Action&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Learning, reasoning, action" />
+
 <p>
   <a href="https://github.com/aprilyab"><img src="https://img.shields.io/badge/GitHub-aprilyab-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/henok-yoseph-0bb438305"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -50,6 +52,12 @@ These projects represent the direction I’m most excited to keep developing:
 | [Credit Risk Model](https://github.com/aprilyab/credit-risk-model) | Classification workflow for estimating loan default risk from customer data. | Python · ML |
 
 > More experiments and implementations are available in my [repositories](https://github.com/aprilyab?tab=repositories).
+
+<div align="center">
+  <a href="https://github.com/aprilyab/Neuro-Symbolic-AI-Guardrail-System"><img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=aprilyab&repo=Neuro-Symbolic-AI-Guardrail-System&theme=transparent&hide_border=true" alt="Neuro-Symbolic AI Guardrail System" /></a>
+  <a href="https://github.com/aprilyab/GraphRAG-Galaxy-agent-xp"><img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=aprilyab&repo=GraphRAG-Galaxy-agent-xp&theme=transparent&hide_border=true" alt="GraphRAG Galaxy Agent" /></a>
+  <a href="https://github.com/aprilyab/cordial-f1r3node"><img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=aprilyab&repo=cordial-f1r3node&theme=transparent&hide_border=true" alt="Cordial f1r3node" /></a>
+</div>
 
 ## Experience
 
@@ -111,6 +119,14 @@ Completed training includes **Kifiya AI Mastery**, **Frontier Tech Leaders: AI a
 </div>
 
 </details>
+
+### Contribution landscape
+
+This is generated automatically from my GitHub activity through [GitHub Actions](https://github.com/aprilyab/aprilyab/actions/workflows/profile-3d.yml).
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution landscape" width="100%" />
+</div>
 
 ## Let’s build something useful
 
