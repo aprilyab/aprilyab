@@ -1,54 +1,73 @@
-<h1 align="center">Hi 👋, I'm Henok Yoseph</h1>
-<h3 align="center">🚀 Junior ML Engineer & Data Scientist | Aspiring AI & Machine Learning Engineer | Data Enthusiast</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aprilyab&label=Profile%20views&color=0e75b6&style=flat" alt="aprilyab" />
+# Hi, I'm Henok Yoseph 👋
+
+### AI/ML Engineer · Software Developer · Computer Science Student
+
+<p>
+  <a href="https://github.com/aprilyab"><img src="https://img.shields.io/badge/GitHub-aprilyab-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/henok-yoseph-0bb438305"><img src="https://img.shields.io/badge/LinkedIn-Henok%20Yoseph-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:henokapril@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## 🎓 Education
-- **BSc in Computer Science**  
-  _Addis Ababa University, Addis Ababa, Ethiopia (2023 – 2027)_
-  
-## 🔭 I’m currently working on
-- **AI/ML Engineer** at [iCog Labs](https://icog-labs.com/)), developing predictive models and advancing skills in deep learning and AI-driven solutions.
+</div>
 
-## 💻 Projects
-- All of my projects are available at [GitHub](https://github.com/aprilyab)
+## About me
 
-## 🔗 Connect With Me
-- Email: [henokapril@gmail.com](mailto:henokapril@gmail.com)  
-- LinkedIn: [Henok Yoseph](https://linkedin.com/in/henok-yoseph-0bb438305)  
+I’m a junior AI/ML engineer and software developer based in Addis Ababa, Ethiopia. I build practical, end-to-end machine learning systems—from data preparation and model development to deployment and intelligent applications.
 
-<h3 align="left">🛠 Tech Stack:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-</p>
+- Currently working as an **Artificial Intelligence Engineer at [iCog Labs](https://icog-labs.com/)**
+- Studying for a **BSc in Computer Science at [Addis Ababa University](https://www.aau.edu.et/)** (2023–2027)
+- Interested in **machine learning, deep learning, NLP, computer vision, data engineering, and AI agents**
+- Open to collaborating on meaningful AI/ML and software engineering projects
 
-<!-- GitHub Stats -->
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aprilyab&show_icons=true&locale=en&layout=compact" alt="aprilyab" />
-</p>
+## Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aprilyab&show_icons=true&locale=en" alt="aprilyab" /></p>
+| Role | Organization | Focus |
+| --- | --- | --- |
+| Artificial Intelligence Engineer | [iCog Labs](https://icog-labs.com/) · Nov 2025–Present | AI agent integration, NLP, graph-based assistants, and pattern recognition pipelines |
+| Machine Learning Intern | Elevvo · Sep 2025–Nov 2025 | AI/ML solutions and model integration into business workflows |
+| Research Officer Intern | Benetsa Marketing Consultancy · Aug 2025–Nov 2025 | Research and analytical support |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aprilyab&" alt="aprilyab" /></p>
+## Selected projects
+
+- **AI-Powered Fraud Detection** — Built an end-to-end fraud detection pipeline and used SHAP to explain model decisions.
+- **Credit Risk Scoring** — Developed a classification model to estimate loan default probabilities from financial and behavioral data.
+- **Plastic Waste Image Classifier** — Trained a CNN to classify plastic types for recycling from real-world images.
+- **Eco-Friendly Product Sentiment Analysis** — Applied NLP to classify customer sentiment in product reviews.
+- **Smart Complaint Handling Chatbot** — Created an intelligent system for understanding, categorizing, and responding to customer complaints.
+
+## Technical skills
+
+**Languages:** Python · SQL · Java · C++ · Rust · PHP · JavaScript<br />
+**Machine Learning:** Scikit-learn · TensorFlow · PyTorch · OpenCV · Pandas · Seaborn<br />
+**Data:** Data wrangling · Statistical analysis · Jupyter · R · MySQL · PostgreSQL · NoSQL<br />
+**Engineering:** OOP · Data structures and algorithms · Django · Flask · HTML · CSS<br />
+**Deployment:** Docker · Model serving · Linux · Git · GitHub
+
+## Training and certifications
+
+- Kifiya AI Mastery Training Program — 10 Academy
+- Frontier Tech Leaders: AI and ML for SDGs — Ethiopia Cohort
+- Africa Agility Data Analytics Micro-Credential
+- Data Structures and Algorithms — A2SV
+- Neural Networks and Deep Learning — Coursera
+- Machine Learning — Coursera
+- Machine Learning and Deep Learning — Udemy
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aprilyab&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Henok's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprilyab&layout=compact&hide_border=true&theme=transparent" alt="Henok's top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aprilyab&hide_border=true&theme=transparent" alt="Henok's GitHub contribution streak" />
+</div>
+
+## Let’s connect
+
+If you’re interested in AI/ML, data, or software engineering, feel free to reach out or explore my repositories.
+
+📧 [henokapril@gmail.com](mailto:henokapril@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/henok-yoseph-0bb438305) · 🐙 [GitHub](https://github.com/aprilyab)
